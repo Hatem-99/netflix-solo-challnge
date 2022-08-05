@@ -1,0 +1,52 @@
+.navbar{
+    background-color: #141414 !important;
+    color: #ebebeb;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #ebebeb;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+.last > i{
+    color: white;
+   font-size: 40px;
+}
+h1{
+    color: #ebebeb;
+
+}
+.movis > * img{
+        width: 100%;
+}
+footer a, footer span {
+    color: #7f7f7f;
+}
+footer i {
+   color: #7c7c7c;
+   font-size: 20px;
+}
+.movis > h2{
+    margin-left: -1rem;
+    color: #ebebeb;
+}
+.bg-141414{
+    background-color: #141414;
+}
+.gap{
+    gap: 40px;
+}
+.gap1{
+    gap: 20px;
+}
+.movis{
+    margin-bottom: 2rem;
+}
+
+.movis:last-of-type{
+    margin-bottom: 100px;
+}
+.good{
+    margin-inline: -15px;
+}

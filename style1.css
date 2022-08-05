@@ -1,0 +1,38 @@
+input{
+    background-color: rgb(235, 223, 223);
+    border: none;
+    cursor: pointer;
+    color: #ebebeb;
+    
+}
+
+body{
+    color: #ebebeb;
+}
+.info{
+    width: 50vw ;
+    
+
+}
+h1{
+    color: #ebebeb;
+}
+h3{
+    margin-top: 25px;
+}
+.bg-netflix{
+    background-color: #141414;
+}
+.btn-outline-light{
+   border-radius: 0;
+   border: 1px solid gray;
+}
+.line{
+    width: 100%;
+    height: 2px;
+    background-color: gray;
+    margin-bottom: 10px;
+}
+.line:not(:first-child){
+    margin-top: 10px;
+}
